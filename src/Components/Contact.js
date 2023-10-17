@@ -1,4 +1,4 @@
-import about from '../Images/about.jpg'
+
 import {FaMailBulk} from "react-icons/fa"
 import { FaAccusoft,FaSafari,FaDribbble } from "react-icons/fa6"
 const iconStyles ={

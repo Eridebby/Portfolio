@@ -1,9 +1,9 @@
-import project1 from '../Images/project-1.jpg';
-import project2 from '../Images/project-2.jpg';
-import project3 from '../Images/project-3.jpg';
-import project4 from '../Images/project-4.jpg';
-import project5 from '../Images/project-5.jpg';
-import project6 from '../Images/project-6.jpg';
+import project1 from '../Images/project-1.png';
+import project2 from '../Images/project-2.png';
+import project3 from '../Images/project-3.png';
+import project4 from '../Images/project-4.png';
+import project5 from '../Images/project-5.png';
+import project6 from '../Images/project-6.png';
 
 const project = [project1, project2, project3, project4, project5, project6];
 
