@@ -37,26 +37,6 @@ const Services =()=>{
                   </a>
                 </div>
               </div>
-              <div className="col-md-4  col-sm-6 text-center   ">
-                <div className="card p-3 bg-info" style={{height:"150px"}}>
-                  <a href="#" className="services-1" style={{textDecoration:"none"}}>
-                   <FcIdea style={iconStyles}/>
-                    <div className="desc text-center">
-                      <h6 className="mb-5  text-dark text-decoration-none">App Development</h6>
-                    </div>
-                  </a>
-                </div>
-              </div>
-              <div className="col-md-4  col-sm-6 text-center   ">
-                <div className="card p-3 bg-info" style={{height:"150px"}}>
-                  <a href="#" className="services-1" style={{textDecoration:"none"}}>
-                   <FaCloudflare style={iconStyles}/>
-                    <div className="desc text-center">
-                      <h6 className="mb-5  text-dark text-decoration-none">Devops</h6>
-                    </div>
-                  </a>
-                </div>
-              </div>
               <div className="col-md-4   col-sm-6 text-center   ">
                 <div className="card p-3 bg-info" style={{height:"150px"}}>
                   <a href="#" className="services-1" style={{textDecoration:"none"}}>
@@ -67,17 +47,7 @@ const Services =()=>{
                   </a>
                 </div>
               </div>
-              <div className="col-md-4  col-sm-6 text-center   " id="service">
-                <div className="card p-3 bg-info" style={{height:"150px"}}>
-                  <a href="#" className="services-1" style={{textDecoration:"none"}}>
-                   <FaDeezer style={iconStyles}/>
-                    <div className="desc text-center">
-                      <h6 className="mb-5  text-dark text-decoration-none">Data Analysis</h6>
-                    </div>
-                  </a>
-                </div>
-              </div>
-
+  
           </div>
         </div>
       </section>
