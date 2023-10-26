@@ -9,7 +9,7 @@ const Services =()=>{
         <div className="container">
           <div className="text-center text-light">
             <h1 className="big big-2">Services</h1>
-            <h2 className="mb-4">Services</h2>
+          
             <p>
               Far far away, behind the word mountains, far from the countries
               Vokalia and Consonantia

@@ -5,7 +5,7 @@ const Resume = () => {
           <div className="container mx-auto">
             <div className="text-center text-light mt-5">
               <h1 className="big big-2">Resume</h1>
-              <h2 className="mb-4">Resume</h2>
+             
               <p>
                 A small river named Duden flows by their place and supplies it
                 with the necessary regelialia. It is a paradisematic country, in

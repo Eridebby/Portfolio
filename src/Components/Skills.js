@@ -6,7 +6,6 @@ const Skills = () => {
             <div className="container text-center">
               <div className="text-center ftco-animate">
                 <h1 className="big big-2 text-light">Skills</h1>
-                <h2 className="mb-4 text-light">My Skills</h2>
                 <p>
                   Far far away, behind the word mountains, far from the countries
                   Vokalia and Consonantia

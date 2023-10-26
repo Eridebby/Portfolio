@@ -8,8 +8,6 @@ const Home = () => {
   return (
     <div >
   
-
-      {/* home */}
       <section id="home" className="  text-light text-center p-5">
         <div className="container">
           <div className="d-sm-flex align-items-center justify-content-between">

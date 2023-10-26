@@ -16,7 +16,7 @@ const About = () => {
             />
             <div className="text-light text-center text-sm-start">
               <h1 className="big">About</h1>
-              <h2 className="mb-4">About Me</h2>
+             
               <p>
                 A small river named Duden flows by their place and supplies it
                 with the necessary regelialia.

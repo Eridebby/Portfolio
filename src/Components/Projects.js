@@ -12,7 +12,7 @@ const Projects = () => {
     <section id='projects'>
       <div className="container p-5">
         <div className="text-center text-light">
-          <h2> Our Projects</h2>
+          <h2>Projects</h2>
           <p>
             Far far away, behind the word mountains, far from the countries
             Vokalia and Consonantia
