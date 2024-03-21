@@ -1,16 +1,23 @@
 import "../App.css"
+import portlogo from '../Images/portfolioLogo.png'
 
 
 const Navbar = () => {
   return (
-    <div className="header " style={{backgroundColor:'rgb(0,0,0)'}}>
+    <div className="header " style={{backgroundColor:'rgb(34,34,34)', height: '60px'}}>
       <div className="container ">
         <nav className="navbar navbar-dark navbar-expand-lg ">
-          <div className="container-fluid">
+          <div className="container-fluid ">
+         
             <a className="navbar-brand text-white" href="#">
-              <span className="text-info">Herry</span>Dev
+            <img
+              src={portlogo}
+              style={{ width: '30%', height: '20%' }}
+              alt=""
+            />
             </a>
-            <button
+            
+            {/* <button
               className="navbar-toggler "
               type="button"
               data-bs-toggle="collapse"
@@ -62,7 +69,7 @@ const Navbar = () => {
                   </a>
                 </li>
               </ul>
-            </div>
+            </div> */}
           </div>
         </nav>
       </div>
